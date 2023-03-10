@@ -1,2 +1,2 @@
 # MasterMind_VS_GA
-School project. Mastermind game with a genetic algorithm powered CPU player. 
+University class project. Mastermind game with a genetic algorithm powered CPU player. 
